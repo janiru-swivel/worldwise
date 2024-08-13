@@ -7,8 +7,6 @@ import PageNotFound from "./pages/PageNotFound";
 import AppLayOut from "./pages/AppLayOut";
 
 function App() {
-  const x = 23;
-
   return (
     <>
       <BrowserRouter>
